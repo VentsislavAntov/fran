@@ -1,0 +1,21 @@
+{
+  "metrics": {
+    "dailyImpressions": 29200,
+    "ad_requests": 50000,
+    "revenue": 325.00
+  },
+  "over_time": [
+    {
+      "date": "2000-09-10",
+      "impressions": 11521,
+      "ad_requests": 17028,
+      "revenue": 288.00
+    },
+    {
+      "date": "2024-09-11",
+      "impressions": 16000,
+      "ad_requests": 25000,
+      "revenue": 340.00
+    }
+  ]
+}

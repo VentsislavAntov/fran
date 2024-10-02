@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import Dashboard from './components/Dashboard';
-import SignIn from './components/SignIn';
+import SignUpSignIn from './components/SignUpSignIn.jsx';
+import Dashboard from './components/Dashboard.jsx';
 
 const App = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -14,6 +14,7 @@ const App = () => {
 
   const handleLogin = (status) => {
     setIsAuthenticated(status);
+    localStorage.setItem('isAuthenticated', status ? 'true' : 'false');
   };
 
   return (
@@ -21,7 +22,7 @@ const App = () => {
       {isAuthenticated ? (
         <Dashboard />
       ) : (
-        <SignIn onLogin={handleLogin} />
+        <SignUpSignIn onLogin={handleLogin} />
       )}
     </div>
   );
