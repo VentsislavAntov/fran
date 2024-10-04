@@ -1,7 +1,6 @@
 export const fetchMetrics = async (filters) => {
   try {
     const query = new URLSearchParams(filters).toString();
-    console.log("Query being sent to the backend: ", query);  // Debugging: log the query
     const response = await fetch(`http://localhost:3001/api/metrics?${query}`);
     
     if (!response.ok) {

@@ -6,16 +6,124 @@
   },
   "over_time": [
     {
-      "date": "2000-09-10",
-      "impressions": 11521,
-      "ad_requests": 17028,
-      "revenue": 288.00
+      "date": "2020-01-01",
+      "impressions": 8000,
+      "ad_requests": 12000,
+      "revenue": 150.00
+    },
+    {
+      "date": "2020-02-15",
+      "impressions": 9500,
+      "ad_requests": 13000,
+      "revenue": 200.00
+    },
+    {
+      "date": "2020-03-10",
+      "impressions": 10500,
+      "ad_requests": 15000,
+      "revenue": 250.00
+    },
+    {
+      "date": "2020-04-05",
+      "impressions": 13000,
+      "ad_requests": 18000,
+      "revenue": 275.00
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 14000,
+      "ad_requests": 20000,
+      "revenue": 300.00
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 12000,
+      "ad_requests": 16000,
+      "revenue": 220.00
+    },
+    {
+      "date": "2021-01-01",
+      "impressions": 15000,
+      "ad_requests": 21000,
+      "revenue": 310.00
+    },
+    {
+      "date": "2021-05-15",
+      "impressions": 16000,
+      "ad_requests": 23000,
+      "revenue": 320.00
+    },
+    {
+      "date": "2021-09-01",
+      "impressions": 17500,
+      "ad_requests": 24000,
+      "revenue": 330.00
+    },
+    {
+      "date": "2022-01-10",
+      "impressions": 18000,
+      "ad_requests": 25000,
+      "revenue": 335.00
+    },
+    {
+      "date": "2022-06-15",
+      "impressions": 19000,
+      "ad_requests": 27000,
+      "revenue": 345.00
+    },
+    {
+      "date": "2023-01-05",
+      "impressions": 20000,
+      "ad_requests": 29000,
+      "revenue": 360.00
+    },
+    {
+      "date": "2023-03-22",
+      "impressions": 21000,
+      "ad_requests": 30000,
+      "revenue": 370.00
+    },
+    {
+      "date": "2023-09-15",
+      "impressions": 23000,
+      "ad_requests": 32000,
+      "revenue": 380.00
+    },
+    {
+      "date": "2024-01-10",
+      "impressions": 24000,
+      "ad_requests": 33000,
+      "revenue": 385.00
+    },
+    {
+      "date": "2024-06-15",
+      "impressions": 25000,
+      "ad_requests": 35000,
+      "revenue": 395.00
     },
     {
       "date": "2024-09-11",
       "impressions": 16000,
       "ad_requests": 25000,
       "revenue": 340.00
+    },
+    {
+      "date": "2025-01-01",
+      "impressions": 27000,
+      "ad_requests": 37000,
+      "revenue": 410.00
+    },
+    {
+      "date": "2025-06-15",
+      "impressions": 28000,
+      "ad_requests": 38000,
+      "revenue": 420.00
+    },
+    {
+      "date": "2025-09-01",
+      "impressions": 30000,
+      "ad_requests": 40000,
+      "revenue": 430.00
     }
   ]
 }

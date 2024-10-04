@@ -1,0 +1,10 @@
+.dashboard-container {
+  position: relative;
+}
+
+.signout-button {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  z-index: 10;
+}
